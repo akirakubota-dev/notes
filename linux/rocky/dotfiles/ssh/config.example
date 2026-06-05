@@ -1,0 +1,12 @@
+Host github-ak92fun
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519_ak92fun
+  IdentitiesOnly yes
+
+Host github-akirakubota-dev
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519_akirakubota_dev
+  IdentitiesOnly yes
+
